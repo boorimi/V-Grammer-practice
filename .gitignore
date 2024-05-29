@@ -5,9 +5,9 @@
 
 *.class
 
-# Package Files #
+# Package Files 
 *.jar
-
 src/main/webapp/META-INF
 /target/
 /bin/
+
