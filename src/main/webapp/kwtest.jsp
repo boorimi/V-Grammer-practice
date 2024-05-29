@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-김대산씨 pull 테스트 파일입니다. ㅎㅇ
+test
 </body>
 </html>
