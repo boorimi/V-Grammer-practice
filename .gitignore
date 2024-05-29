@@ -9,3 +9,4 @@
 *.jar
 
 src/main/webapp/META-INF
+/target/
